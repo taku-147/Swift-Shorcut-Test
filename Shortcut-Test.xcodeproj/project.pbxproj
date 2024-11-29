@@ -35,6 +35,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2B88A72F2CF994BD005B2127 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		2B88A7302CF99524005B2127 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		2BCE6E832BFF275D00CAA114 /* Shortcut-Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Shortcut-Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BCE6E862BFF275D00CAA114 /* Shortcut_TestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shortcut_TestApp.swift; sourceTree = "<group>"; };
 		2BCE6E882BFF275D00CAA114 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +79,8 @@
 		2BCE6E7A2BFF275D00CAA114 = {
 			isa = PBXGroup;
 			children = (
+				2B88A72F2CF994BD005B2127 /* readme.md */,
+				2B88A7302CF99524005B2127 /* LICENSE */,
 				2BCE6E852BFF275D00CAA114 /* Shortcut-Test */,
 				2BCE6E962BFF275E00CAA114 /* Shortcut-TestTests */,
 				2BCE6EA02BFF275E00CAA114 /* Shortcut-TestUITests */,
