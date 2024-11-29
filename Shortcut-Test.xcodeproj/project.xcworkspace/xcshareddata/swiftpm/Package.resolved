@@ -1,0 +1,15 @@
+{
+  "originHash" : "88920439bcd68416a07500b8e98b712527232eb5cef8b0344d484be0d89b778b",
+  "pins" : [
+    {
+      "identity" : "elswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Hiroshi-Sugimura/ELSwift",
+      "state" : {
+        "revision" : "6963e44abda2527fc5639f2ba1631e36499a4242",
+        "version" : "0.3.7"
+      }
+    }
+  ],
+  "version" : 3
+}
